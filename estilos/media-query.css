@@ -33,14 +33,6 @@ Grandes telas: acime de 1200px
         width: 70%;
     }
 
-    form > div.campo {
-        background-color: #5f2c82;
-        display: block;
-        width: 60%;
-        height: 40px;
-        border-radius: 5px;
-        margin: 4px 100px;
-    }
 }
 
 @media screen and (min-width: 992px) {
@@ -71,14 +63,4 @@ div#formulario > h1 {
 div#formulario > p {
     font-size: 1.2em;
 }
-
- form > div.campo {
-        background-color: #5f2c82;
-        display: block;
-        width: 60%;
-        height: 40px;
-        border-radius: 5px;
-        margin: 4px 100px;
-    }
-
 }
